@@ -57,6 +57,12 @@ Multi-class classification assessing water quality based on chemical and physica
 - **Use Case**: Environmental monitoring
 - **Location**: `/Water Quality`
 
+### 8. **✍️ Handwriting Recognition**
+Multi-class classification recognizing handwritten digits (0-9) using pixel intensity features from the MNIST dataset.
+- **Algorithm Focus**: Logistic Regression, Random Forest, SVM, Computer Vision
+- **Use Case**: Optical Character Recognition (OCR), postal mail sorting, check processing
+- **Location**: `/Handwriting Recognition`
+
 ## 🛠️ Technologies & Tools
 
 - **Python 3.x**
